@@ -1,0 +1,298 @@
+    div.polaroid {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 5px;
+        left: 10px;
+    }
+    
+    div.container {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    #pardi {
+        position: initial;
+        width: 270px;
+    }
+    
+    div.juliana {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 770px;
+        left: 10px;
+    }
+    
+    div.jul {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    #ju {
+        position: relative;
+        width: 270px;
+    }
+    
+    div.rafael {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 390px;
+        left: 1050px;
+    }
+    
+    div.rafa {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    #raf {
+        position: relative;
+        width: 270px;
+    }
+    
+    div.lucas {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 1250px;
+        left: 1050px;
+    }
+    
+    div.alves {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    #luc {
+        position: relative;
+        width: 270px;
+    }
+    
+    #freitas {
+        position: absolute;
+        float: left;
+        box-sizing: content-box;
+        left: 5px;
+        top: 1235px;
+        border: 3px solid;
+        width: 1030px;
+    }
+    
+    #celso {
+        position: absolute;
+        float: left;
+        box-sizing: content-box;
+        left: 280px;
+        top: .02px;
+        border: 3px solid;
+        width: 1030px;
+    }
+    
+    #canavel {
+        position: absolute;
+        float: left;
+        box-sizing: content-box;
+        left: 5px;
+        top: 375px;
+        border: 3px solid;
+        width: 1030px;
+    }
+    
+    #ferrao {
+        position: absolute;
+        float: left;
+        box-sizing: content-box;
+        left: 285px;
+        top: 760px;
+        border: 3px solid;
+        width: 1030px;
+    }
+    /*div.polaroid {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+    }
+    
+    div.container {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    div.polaroid {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+    }
+    
+    div.container {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    div.polaroid {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+    }
+    
+    div.container {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    div.polaroid {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+    }
+    
+    div.container {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    div.polaroid {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+    }
+    
+    div.container {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    div.polaroid {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+    }
+    
+    div.container {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    div.polaroid {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+    }
+    
+    div.container {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }
+    
+    div.polaroid {
+        width: 20%;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 5px;
+        margin-right: 10px;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+    }
+    
+    div.container {
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 10px 20px;
+        position: relative;
+        font-family: cursive;
+        font-size: 18px;
+    }*/

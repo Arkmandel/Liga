@@ -1,0 +1,57 @@
+        html {
+            /*  background-image: url("https://previews.123rf.com/images/toodtuphoto/toodtuphoto1805/toodtuphoto180500035/101007691-abstract-background-technology-concept-in-green-light-human-body-heal-technology-modern-medical-scie.jpg");
+            background-image: url("https://previews.123rf.com/images/toodtuphoto/toodtuphoto1801/toodtuphoto180100058/93607889-abstract-background-technology-concept-in-green-light-human-body-heal-technology-modern-medical-scie.jpg");
+            */
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+        #head {
+            width: 250px;
+        }
+        
+        div.polaroid {
+            width: 20%;
+            background-color: rgba(255, 255, 255, 1);
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            margin-bottom: 5px;
+            margin-right: 10px;
+            position: absolute;
+            top: 5px;
+            left: 5px;
+        }
+        
+        div.container {
+            background-color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 10px 20px;
+            position: relative;
+            font-family: cursive;
+            font-size: 18px;
+        }
+        
+        #about {
+            width: 250px;
+            left: .1px;
+        }
+        
+        div.gallery {
+            margin: 5px;
+            border: 1px solid #ccc;
+            float: left;
+            width: 180px;
+        }
+        
+        div.gallery:hover {
+            border: 1px solid #777;
+        }
+        
+        div.gallery img {
+            width: 180px;
+            height: auto;
+        }
+        
+        div.desc {
+            padding: 15px;
+            text-align: center;
+        }

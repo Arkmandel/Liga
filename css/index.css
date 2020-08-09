@@ -1,0 +1,68 @@
+.eventos {
+    box-sizing: inherit;
+    background-color: #e1ffe1;
+    width: 1100px;
+    font-family: cursive;
+    border: .05em solid black;
+    margin-bottom: 12px;
+}
+
+.historia {
+    position: absolute;
+    top: 75px;
+    left: 250px;
+    box-sizing: inherit;
+    background-color: #e1ffe1;
+    width: 1100px;
+    font-family: cursive;
+    border: .05em solid black;
+}
+
+.events {
+    background-color: #e1ffe1;
+    width: 800px;
+    overflow: auto;
+    border: .05em solid black;
+    clear: both;
+    padding-top: 35px;
+    margin-bottom: 25px;
+}
+
+#logic {
+    position: absolute;
+    float: bottom;
+    font-size: 18px;
+    left: 500px;
+    font-family: Prata;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.professors {
+    background-color: #e1ffe1;
+    width: 800px;
+    overflow: auto;
+    border: .05em solid black;
+    clear: both;
+    padding-top: 35px;
+}
+
+#participants {
+    position: absolute;
+    float: inline-end;
+    bottom: unset;
+    font-size: 18px;
+    left: 570px;
+    font-family: Prata;
+    text-align: center;
+}
+
+#link {
+    position: absolute;
+    float: bottom;
+    font-size: 18px;
+    left: 550px;
+    font-family: Prata;
+    text-align: center;
+    margin-top: 8px;
+}
